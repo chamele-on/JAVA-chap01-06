@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chap08-inheritance-lecture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chap09-polymorphism-lecture-source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_01" vcs="Git" />
   </component>
 </project>
