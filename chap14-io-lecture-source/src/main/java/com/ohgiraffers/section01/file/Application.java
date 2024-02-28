@@ -27,7 +27,7 @@ public class Application {
             throw new RuntimeException(e);
         }
         
-        ;
+
         System.out.println("파일의 크기 : " + file.length() + "byte");
         System.out.println("파일의 경로 : " + file.getPath());
         System.out.println("파일의 상위 경로 : " + file.getParent());
